@@ -51,7 +51,7 @@ I'm passionate about contributing to open-source projects! Here are some of my c
 - **Email**: odionsamuel2005@gmail.com
 - **LinkedIn**: --
 - **Twitter**: https://x.com/Hs_the_dev
-- **Personal Website/Portfolio**: qhttps://happie-io.vercel.app
+- **Personal Website/Portfolio**: https://happie-io.vercel.app
 
 Feel free to explore my repositories, follow me for updates, and connect with me if you're interested in collaborating!
 
