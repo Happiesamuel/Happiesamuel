@@ -26,10 +26,11 @@ Here are some of my featured projects:
 - **Key Features**:  Users have the ability to create an account, Transfer funds to another user with same bank, Apply for loan from Apex bank, pay for bills e.g Spotify, food bills and view their transaction history l.
 - **Link**: https://github.com/Happiesamuel/apex
 
-### [Project 2 Title](link_to_project)
-- **Description**: A short overview of the project.
-- **Technologies**: [Technologies used in the project]
-- **Link**: [Link to GitHub repository]
+### Movievilla https://movievilla-io.vercel.app/
+- **Description**: Movievilla, a website to track lastest, old movies, series, anime and cartoon. Movievilla application was my first Next Js application which I gained experience in the next Js field was able to work on this project using the tmbd API.
+- **Technologies**: Next Js, Supabase, Tailwind css.
+- **Key Features**: Users have the ability to create an account,Search for movies, Add and Delete movies from watchlist, Read about movies, Rate movies.
+- **Link**: https://github.com/Happiesamuel/movievilla
 
 ### [Project 3 Title](link_to_project)
 - **Description**: A brief description of the project.
