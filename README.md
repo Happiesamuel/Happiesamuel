@@ -1,22 +1,21 @@
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Happie Samuel 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a focus on [your primary area of expertise, e.g., web development, data science, machine learning]. I love solving complex problems and building innovative solutions. Below you'll find information about my skills, work, and how to get in touch with me.
+Welcome to my GitHub profile! I'm a passionate software developer with a focus on web development and mobile development majorly . I love solving complex problems and building innovative solutions. Below you'll find information about my skills, work, and how to get in touch with me.
 
 ## 🌱 About Me
-- 🔭 I’m currently working on: [e.g., a web app project, contributing to open-source, learning a new technology, etc.]
-- 🌱 I’m currently learning: [e.g., Docker, Kubernetes, Rust, etc.]
-- 👯 I’m looking to collaborate on: [mention types of projects you're interested in, e.g., open-source contributions, startups, research projects, etc.]
-- 🤔 I’m open to: [e.g., freelance work, full-time job offers, open-source collaborations, etc.]
-- 💬 Ask me about: [e.g., your areas of expertise, programming languages, tools you're proficient with]
-- 📫 How to reach me: [Your contact info, email, LinkedIn, Twitter, etc.]
+- 🔭 I’m currently working on: An E-commerce and a hotel booking web application.
+- 🌱 I’m currently learning: Flutter & React native.
+- 👯 I’m looking to collaborate on: open-source contributions, startups, research projects, etc.
+- 🤔 I’m open to: freelance work, full-time job offers, open-source collaborations, etc.
+- 📫 How to reach me: Whatsapp, email, LinkedIn, Twitter, Facebook.
 
 ## 🚀 Skills
-- **Languages**: [List your programming languages, e.g., JavaScript, Python, C++, Java]
-- **Frameworks**: [e.g., React, Angular, Django, Flask, Express]
-- **Tools & Technologies**: [e.g., Git, Docker, Kubernetes, AWS, GCP]
-- **Databases**: [e.g., MySQL, PostgreSQL, MongoDB, Firebase]
-- **Other**: [e.g., Agile, REST APIs, DevOps, CI/CD pipelines]
+- **Languages**: Typescript, JavaScript 
+- **Frameworks**: React, Next js
+- **Tools & Technologies**: Git, Auth Js, Shad cn, Tailwind css, Aos, Zod, Redux, Tanstack query, Recharts etc.
+- **Databases**: Appwrite, Supabase, Firebase.
+- **Other**:  REST APIs.
 
 ## 💻 Projects
 Here are some of my featured projects:
