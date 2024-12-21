@@ -20,11 +20,11 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 ## 💻 Projects
 Here are some of my featured projects:
 
-### [Project 1 Title](link_to_project)
-- **Description**: Briefly describe what the project is about and any challenges you overcame.
-- **Technologies**: [List technologies used, e.g., React, Node.js, MongoDB]
-- **Key Features**: [Highlight key features or functionalities of the project]
-- **Link**: [Link to GitHub repository]
+### Apex Banking app https://apexbank.vercel.app/
+- **Description**: Apex bank is a banking application that has the functionality of a real world bank. When creating this application I was exposed to other tools and libraries to use e.g shad cn and Zod and also was my first project of using React query with Next Js...which my react query handle fetching in the client side.
+- **Technologies**: Next Js, React, Tailwind css, Shad cn, Zod, Appwrite, Auth Js etc.
+- **Key Features**:  Users have the ability to create an account, Transfer funds to another user with same bank, Apply for loan from Apex bank, pay for bills e.g Spotify, food bills and view their transaction history l.
+- **Link**: 
 
 ### [Project 2 Title](link_to_project)
 - **Description**: A short overview of the project.
