@@ -1,0 +1,31 @@
+name: Update Profile README
+
+on:
+  push:
+     branches:
+      - main  # Add more branches here
+      - dev
+  repository_dispatch:
+    types: [organization-push]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update README with Last Push Info
+        run: |
+          echo "## Latest Activity 🚀" > README.md
+          echo "- Last updated: $(date)" >> README.md
+          echo "- Pushed to an organization repository." >> README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Auto-update README on org push" || exit 0
+          git push
+
