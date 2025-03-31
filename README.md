@@ -3,6 +3,8 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer with a focus on web development and mobile development majorly . I love solving complex problems and building innovative solutions. Below you'll find information about my skills, work, and how to get in touch with me.
 
+![Profile Views](https://komarev.com/ghpvc/?username=Happiesamuel&color=blue)
+
 ## 🌱 About Me
 - 🔭 I’m currently working on: An E-commerce and a hotel booking web application.
 - 🌱 I’m currently learning: Flutter & React native.
@@ -59,7 +61,9 @@ I'm passionate about contributing to open-source projects! Here are some of my c
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Happiesamuel&show_icons=true&count_private=true&hide=prs&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Happiesamuel&layout=compact&theme=radical)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Happiesamuel&theme=radical)
 
 ## 📫 Get in Touch
