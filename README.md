@@ -59,6 +59,9 @@ I'm passionate about contributing to open-source projects! Here are some of my c
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Happiesamuel&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Happiesamuel&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Happiesamuel&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Happiesamuel&theme=dark)
 
 ## 📫 Get in Touch
 - **Email**: odionsamuel2005@gmail.com
