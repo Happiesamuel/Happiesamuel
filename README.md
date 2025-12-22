@@ -6,23 +6,26 @@
 </p>
 
 <div align="center" style="padding-bottom:30px;">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Happiesamuel&theme=highcontrast"
-    alt="GitHub Streak"
+    <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happiesamuel&layout=compact&theme=highcontrast"
+    height="170"
+    alt="Top Languages"
   />
+ 
 </div>
 
 <div align="center">
+   <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Happiesamuel&theme=highcontrast"
+    alt="GitHub Streak"
+  />
+    &nbsp;&nbsp;&nbsp;
   <img
     src="https://github-readme-stats.vercel.app/api?username=Happiesamuel&show_icons=true&count_private=true&hide=prs&theme=highcontrast"
     height="170"
     alt="GitHub Stats"
   />
-  &nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happiesamuel&layout=compact&theme=highcontrast"
-    height="170"
-    alt="Top Languages"
-  />
+
+
 </div>
 
