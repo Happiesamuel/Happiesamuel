@@ -5,7 +5,7 @@
   />
 </p>
 
-<div align="center">
+<div align="center" style="padding-bottom:30px;">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Happiesamuel&theme=highcontrast"
     alt="GitHub Streak"
