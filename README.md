@@ -16,7 +16,7 @@
   />
 </div>
 
-<br /><br />
+<br />
 
 <!-- Stats & Languages -->
 <div align="center">
