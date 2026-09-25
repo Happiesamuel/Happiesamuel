@@ -65,6 +65,7 @@ Frontend Developer building production-ready web and mobile applications with **
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Happiesamuel&layout=compact&hide_border=true&title_color=2E7D32)
 
+
 ---
 
 ## Contribution Graph
