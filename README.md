@@ -61,17 +61,16 @@ Frontend Developer building production-ready web and mobile applications with **
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Happiesamuel&show_icons=true&hide_border=true&title_color=2E7D32&icon_color=2E7D32&text_color=374151)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Happiesamuel&show_icons=true&hide_border=true&bg_color=0D1512&title_color=22C55E&icon_color=22C55E&text_color=E5E7EB)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Happiesamuel&layout=compact&hide_border=true&title_color=2E7D32)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Happiesamuel&layout=compact&hide_border=true&bg_color=0D1512&title_color=22C55E&text_color=E5E7EB)
 
 
 ---
 
 ## Contribution Graph
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Happiesamuel&hide_border=true&ring=2E7D32&fire=2E7D32&currStreakLabel=2E7D32)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Happiesamuel&hide_border=true&background=0D1512&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=9CA3AF)
 ---
 
 ## 2026 Roadmap
