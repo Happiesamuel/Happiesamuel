@@ -88,6 +88,6 @@ Frontend Developer building production-ready web and mobile applications with **
 
 - 📧 **odionsamuel2005@gmail.com**
 - 💼 LinkedIn
-- 🌐 Portfolio: linktr.ee/hs_the_dev
+- 🌐 Portfolio: [Portfolio](https://happie-samuel.vercel.app)
 
 > Turning ideas into seamless digital experiences.
